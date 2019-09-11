@@ -23,7 +23,7 @@ body {
     margin: 4em 0px 8em 0px;
     padding: 0.4em 0.2em;
 
-    column-count: 4;
+    column-count: 3;
     column-width: 22em;
 
     -webkit-column-gap: 0px;
