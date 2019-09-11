@@ -60,6 +60,7 @@ h1 {
 }
 
 h1, h2 {
+    font-variant: small-caps;
     color: #62757f;
     letter-spacing: .1em;
     margin-top: 2em;
@@ -100,10 +101,4 @@ a {
 
 a:hover {
     text-decoration: underline;
-}
-
-span.old {
-    text-decoration: line-through;
-    color: #90a4ae;
-    font-size: smaller;
 }
